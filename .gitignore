@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Flask instance folder
+instance/
+
+# Flask migrations folder
+migrations/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Log files
+*.log
+
+# SQLite database files
+*.db
+
+# dotenv environment variable file
+.env
+
+# Configuration files
+*.ini
+*.conf
+
+# Jupyter Notebook files
+.ipynb_checkpoints/

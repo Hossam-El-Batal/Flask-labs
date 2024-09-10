@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "flask-lab2"
+version = "0.1.0"
+description = ""
+authors = ["Hossam Elbatal <tokyo.hossam@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.3"
+sqlalchemy = "^2.0.34"
+flask-sqlalchemy = "^3.1.1"
+flask-login = "^0.6.3"
+flask-admin = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
