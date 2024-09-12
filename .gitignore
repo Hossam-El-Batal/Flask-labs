@@ -1,0 +1,35 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+*.egg-info/
+
+# Flask instance folder
+instance/
+
+# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Other temporary files
+*.tmp
+*.bak
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
